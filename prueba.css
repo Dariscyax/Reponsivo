@@ -1,0 +1,10 @@
+body,html
+
+heigth: 100%;
+widh:100;
+margin:0;
+
+.container{
+    display: flex;
+    justify-content: center;
+}
